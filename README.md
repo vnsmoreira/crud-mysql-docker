@@ -20,6 +20,17 @@
   </li>
 </ul>
 
+## Technologies used in this project
+
+### Stack
+<ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>bcrypt</li>
+    <li>Docker</li>
+    <li>MySQL</li>
+</ul>
+
 ## Project Intent
 Learn SQL(MySQL) and Docker basics.
 
